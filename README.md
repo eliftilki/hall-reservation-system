@@ -6,4 +6,4 @@ The project is designed to provide an simple rezervation system for cinema,conce
 The Hall Reservation System Project offers the following features:
 - print hall: if user choses that option from main menu program will be print empyt seats with "-" and reserve seats with "x" as halls general look.
 - new activity: if user choses that option from main menu program will be delete all that former reservation.
-- total indorsement: if user choses that option from main menu program will be print each categorys indorsements and total indorsement. Program calculate indorsements from indirim.txt file.
+- total indorsement: if user choses that option from main menu program will be print each categorys indorsements and total indorsement. Program calculate indorsements from indirim1.txt file.
